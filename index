@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Portfolio Herolike</title>
+   <link rel="stylesheet" href="stylesheet.css">
+</head>
+
+<body>
+   
+<main>
+   <div class="hero-wrap">
+      <div class="hero-area">
+   
+         <div class="hero-area-circle">
+            <p class="new-world">NEW WORLD</p>
+            <p class="new-world-miwa">web designer - miwa</p>
+         </div>
+   
+      </div>
+   </div>
+
+   <div class="transition-from-hero"></div>
+
+   <div class="description-box">
+      <p class="neon-blue" id="welcome"><span>Welcome to Miwa's Portfolio</span></p>
+      <button class="click-here neon-blue" id="click-here">Click Here...</button>
+
+      <div class="portfolio-list-box opacity0" id="portfolio-list-box">
+         <div class="contact">
+            <p>Email : m0902masa@gmail.com</p>
+            <p>SNS : <a href="">Twitter</a>, <a href="">Instagram</a>, <a href="">facebook</a></p>
+         </div>
+
+         <div class="portfolio-list-box-flex">
+            <div>
+               <a href="">this is a dammy letters site it for you</a>
+               <a href="">this is a dammy letters </a>
+               <a href="">this is a dammy letters site it</a>
+               <a href="">this is a dammy letters site it</a>
+               <a href="">this is a dammy letters site it for you</a>
+            </div>
+            <div>
+               <a href="">this is a dammy letters site it for you</a>
+               <a href="">this is a dammy letters </a>
+               <a href="">this is a dammy letters site it</a>
+               <a href="">this is a dammy letters site it</a>
+               <a href="">this is a dammy letters site it for you</a>
+            </div>
+         </div>
+
+      </div>
+
+      <!-- <button id="reset-local-strage-btn" class="displayNone">Reset</button> -->
+
+   </div>
+
+
+
+</main>
+
+
+<footer></footer>
+
+
+<script src="script.js"></script>
+</body>
+</html>
